@@ -1,5 +1,5 @@
 # STILL IN IT INITIAL STAGE:
 
-#STILL HAVE TO ADD UI TO IT
+it can still be made better.This is just a stage
 
 #Run with node index on vscode.
