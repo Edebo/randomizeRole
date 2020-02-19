@@ -102,7 +102,7 @@ randFormName.addEventListener("submit", e => {
 save.addEventListener("click", e => {
   const tableContent = randTable.outerHTML.replace(/ /g, "%20");
   let uri = "data:application/vnd.ms-excel;charset-utf-8," + tableContent;
-  triggerDownload(uri, `${randname}.xlsx `);
+  triggerDownload(uri, `${randname}.xlsx`);
   randDiv.style.display = "none";
 });
 
